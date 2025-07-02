@@ -1,26 +1,4 @@
-// let add= document.querySelector("h2");
-// console.dir(add.innerText);
 
-// add.innerText += " from apna college student"
-
-// let box=document.querySelectorAll(".box");
-// console.dir(box)
-
-// box[0].innerText="new value1"
-// box[1].innerText="new value2"
-// box[2].innerText="new value3"
-
-// let newButton=document.createElement("Button");
-// newButton.innerText="Click me"
-
-// newButton.style.backgroundColor="red";
-// newButton.style.color="White"
-
-// document.querySelector("body").prepend(newButton)
-
-// //q2
-
-// let para=document.querySelector("p")
 
 let boxes=document.querySelectorAll(".box");
 let resetbtn=document.querySelector("#reset");
